@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yanira Pérez!
+👋 Hi, I’m Yanira Pérez!
 - 📫 How to reach me: yperez@bodas.net
 
 <!---
